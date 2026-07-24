@@ -1,0 +1,9 @@
+python -m venv venv
+.\venv\Scripts\activate
+python manage.py(doubt)
+file check -dir
+node -v
+npm -v
+npm install
+type package.json(optional)
+run link generate -node server.js

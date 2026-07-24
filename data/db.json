@@ -1,0 +1,62 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Bluetooth Headphones",
+      "price": 1499,
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400",
+      "description": "High quality wireless headphones with noise cancellation, 20 hours battery backup and deep bass sound.",
+      "category": "Electronics",
+      "stock": 25
+    },
+    {
+      "id": 2,
+      "name": "Smart Watch",
+      "price": 2299,
+      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=400",
+      "description": "Fitness smart watch with heart rate monitor, step counter and call/message notifications.",
+      "category": "Electronics",
+      "stock": 15
+    },
+    {
+      "id": 3,
+      "name": "Men's Running Shoes",
+      "price": 1199,
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=400",
+      "description": "Lightweight and comfortable running shoes, perfect for daily jogging and gym workouts.",
+      "category": "Fashion",
+      "stock": 40
+    },
+    {
+      "id": 4,
+      "name": "Cotton Backpack",
+      "price": 899,
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=400",
+      "description": "Spacious cotton backpack with laptop compartment, ideal for college and office use.",
+      "category": "Fashion",
+      "stock": 30
+    },
+    {
+      "id": 5,
+      "name": "Stainless Steel Water Bottle",
+      "price": 349,
+      "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=400",
+      "description": "1 litre insulated steel bottle, keeps water cold for 24 hours and hot for 12 hours.",
+      "category": "Home",
+      "stock": 60
+    },
+    {
+      "id": 6,
+      "name": "Wireless Mouse",
+      "price": 499,
+      "image": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?w=400",
+      "description": "Ergonomic wireless mouse with 2.4GHz connectivity and long battery life.",
+      "category": "Electronics",
+      "stock": 50
+    }
+  ],
+  "users": [],
+  "orders": [],
+  "nextUserId": 1,
+  "nextOrderId": 1
+}
